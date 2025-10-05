@@ -8,9 +8,12 @@
 
 <div align="center">
   
-  <img src="https://komarev.com/ghpvc/?username=byteops02&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/byteops02?label=Followers&style=for-the-badge&color=blueviolet&logo=github" alt="GitHub Followers" />
-  <img src="https://img.shields.io/twitter/follow/krishnarammhd?style=for-the-badge&logo=X&color=blueviolet&label=Follow" alt="X Follow" />
+  <a href="https://github.com/byteops02?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/byteops02?label=Follow%20on%20GitHub&style=for-the-badge&color=blueviolet&logo=github" alt="GitHub Follow" />
+  </a>
+  <a href="https://twitter.com/krishnarammhd" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/krishnarammhd?style=for-the-badge&logo=X&color=blueviolet&label=Follow%20on%20X" alt="X Follow" />
+  </a>
   
 </div>
 
@@ -18,7 +21,7 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
 ### 👨‍💻 About Me
 
@@ -48,12 +51,12 @@ const ramKrishna = {
 - ⚡ Fun fact: Coffee → Code → Repeat ☕
 
 </td>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAc3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400" />
+  <img src="https://media.giphy.com/media/qgQUggAc3Pfv687qPC/giphy.gif" alt="Coding GIF" width="100%" />
   
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" width="400" style="margin-top: 20px;" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" width="100%" style="margin-top: 20px;" />
 </div>
 
 </td>
