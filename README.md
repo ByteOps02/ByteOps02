@@ -21,6 +21,9 @@
   <a href="https://twitter.com/krishnarammhd" target="_blank">
     <img src="https://img.shields.io/twitter/follow/krishnarammhd?style=for-the-badge&logo=X&color=blueviolet&label=Follow%20on%20X" alt="X Follow" />
   </a>
+  <a href="https://linkedin.com/in/ram-krishna" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-555555?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Follow" />
+  </a>
   
 </div>
 
