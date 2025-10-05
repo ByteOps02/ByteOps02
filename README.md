@@ -18,10 +18,10 @@
   <a href="https://github.com/byteops02?tab=followers" target="_blank">
     <img src="https://img.shields.io/github/followers/byteops02?label=Follow%20on%20GitHub&style=for-the-badge&color=blueviolet&logo=github" alt="GitHub Follow" />
   </a>
-  <a href="https://twitter.com/krishnarammhd" target="_blank">
+  <a href="https://x.com/krishnarammhd" target="_blank">
     <img src="https://img.shields.io/twitter/follow/krishnarammhd?style=for-the-badge&logo=X&color=blueviolet&label=Follow%20on%20X" alt="X Follow" />
   </a>
-  <a href="https://linkedin.com/in/ram-krishna" target="_blank">
+  <a href="https://www.linkedin.com/in/ram-krishna-419528287/" target="_blank">
     <img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-555555?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Follow" />
   </a>
   
@@ -190,11 +190,11 @@ const ramKrishna = {
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://twitter.com/krishnarammhd" target="_blank">
+  <a href="https://x.com/krishnarammhd" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="50" width="60" style="margin: 0 10px;" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/ram-krishna" target="_blank">
+  <a href="https://www.linkedin.com/in/ram-krishna-419528287/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="50" width="60" style="margin: 0 10px;" />
   </a>
   &nbsp;&nbsp;
@@ -202,7 +202,7 @@ const ramKrishna = {
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="50" width="60" style="margin: 0 10px;" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/ins" target="_blank">
+  <a href="https://leetcode.com" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="50" width="60" style="margin: 0 10px;" />
   </a>
   &nbsp;&nbsp;
