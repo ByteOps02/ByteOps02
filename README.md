@@ -2,9 +2,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=200&section=header&text=Ram%20Krishna&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Building%20The%20Future&descAlignY=55&descSize=20" alt="Header Banner" />
 </div>
 
-<h1 align="center">Hey there! I'm Ram Krishna 👋</h1>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey+there!+I'm+Ram+Krishna+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80">
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey+there!+I'm+Ram+Krishna+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80">
+  </picture>
+</div>
 
-<h3 align="center">Full Stack Developer 🚀 | Building Scalable Web Applications 💻</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications+%F0%9F%92%BB;Always+Learning+New+Technologies+%F0%9F%8C%B1;Turning+Coffee+into+Code+%E2%98%95" alt="Subtitle" />
+</h3>
 
 <div align="center">
   
