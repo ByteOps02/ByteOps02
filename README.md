@@ -52,14 +52,6 @@ const ramKrishna = {
 };
 ```
 
-### 🚀 What I'm Up To
-
-- 🔭 Building scalable full-stack applications
-- 🌱 Diving deep into **Drizzle ORM** and **PostgreSQL**
-- 👯 Open to collaborate on interesting web projects
-- 💬 Ask me about **React, Node.js, MongoDB, TypeScript**
-- ⚡ Fun fact: Coffee → Code → Repeat ☕
-
 </td>
 <td width="50%" valign="top">
 
@@ -156,26 +148,6 @@ const ramKrishna = {
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byteops02&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=byteops02&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
-
----
-
-### 🎯 Current Goals for 2025
-
-- ✅ Master PostgreSQL and Drizzle ORM
-- 🎯 Contribute to 5+ open source projects
-- 🎯 Build and deploy 3 full-stack applications
-- 🎯 Write technical blogs and share knowledge
-- 🎯 Learn system design and scalability patterns
-
----
-
-### 💼 Open for Opportunities
-
-- 💻 Full Stack Development
-- 🌐 Web Application Development
-- 🔌 API Development & Integration
-- 🎨 Frontend Development
-- ⚙️ Backend Development
 
 ---
 
