@@ -100,9 +100,6 @@ const ramKrishna = {
   <a href="https://vitejs.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
   </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  </a>
 </p>
 
 <p align="center">
