@@ -14,7 +14,10 @@
 </h3>
 
 <div align="center">
-  
+
+  <a href="https://ram02krishna.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ram02krishna.me-A855F7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://github.com/ram02krishna?tab=followers" target="_blank">
     <img src="https://img.shields.io/github/followers/ram02krishna?label=Follow%20on%20GitHub&style=for-the-badge&color=blueviolet&logo=github" alt="GitHub Follow" />
   </a>
@@ -24,7 +27,7 @@
   <a href="https://www.linkedin.com/in/ram-krishna-419528287/" target="_blank">
     <img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-555555?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Follow" />
   </a>
-  
+
 </div>
 
 ---
@@ -57,7 +60,7 @@ const Ram Krishna = {
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAc3Pfv687qPC/giphy.gif" alt="Coding GIF" width="100%" />
-  
+
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" width="100%" style="margin-top: 20px;" />
 </div>
 
@@ -85,6 +88,12 @@ const Ram Krishna = {
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   </a>
+  <a href="https://en.cppreference.com/w/c" target="_blank">
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  </a>
+  <a href="https://www.postgresql.org/docs/current/sql.html" target="_blank">
+    <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  </a>
 </p>
 
 <p align="center">
@@ -96,6 +105,9 @@ const Ram Krishna = {
   </a>
   <a href="https://vitejs.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
   </a>
 </p>
 
@@ -112,6 +124,18 @@ const Ram Krishna = {
   <a href="https://nodemon.io/" target="_blank">
     <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" alt="Nodemon"/>
   </a>
+  <a href="https://oauth.net/2/" target="_blank">
+    <img src="https://img.shields.io/badge/OAuth_2.0-000000?style=for-the-badge&logo=auth0&logoColor=white" alt="OAuth 2.0"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank">
+    <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSockets"/>
+  </a>
+  <a href="https://socket.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io"/>
+  </a>
+  <a href="https://webrtc.org/" target="_blank">
+    <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC"/>
+  </a>
 </p>
 
 <p align="center">
@@ -126,6 +150,12 @@ const Ram Krishna = {
   </a>
   <a href="https://orm.drizzle.team/" target="_blank">
     <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle ORM"/>
+  </a>
+  <a href="https://www.prisma.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma ORM"/>
+  </a>
+  <a href="https://redis.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
   </a>
 </p>
 
@@ -148,22 +178,52 @@ const Ram Krishna = {
   <a href="https://www.npmjs.com/" target="_blank">
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
   </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  </a>
+  <a href="https://nginx.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+  </a>
+  <a href="https://pm2.keymetrics.io/" target="_blank">
+    <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" alt="PM2"/>
+  </a>
+  <a href="https://render.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
+  </a>
+  <a href="https://github.com/features/actions" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  </a>
 </p>
 
----
-
-### 📊 GitHub Statistics
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ram02krishna&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
-<br/>
+<p align="center">
+  <a href="https://cloudinary.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
+  </a>
+  <a href="https://resend.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white" alt="Resend"/>
+  </a>
+  <a href="https://www.chartjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js"/>
+  </a>
+  <a href="https://www.npmjs.com/package/exceljs" target="_blank">
+    <img src="https://img.shields.io/badge/ExcelJS-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="ExcelJS"/>
+  </a>
+  <a href="https://www.npmjs.com/package/argon2" target="_blank">
+    <img src="https://img.shields.io/badge/Argon2id-000000?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Argon2id"/>
+  </a>
+  <a href="https://developers.google.com/identity/protocols/oauth2" target="_blank">
+    <img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google OAuth"/>
+  </a>
+</p>
 
 ---
 
 ### 🤝 Connect with Me
 
 <p align="center">
+  <a href="https://ram02krishna.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ram02krishna.me-A855F7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://x.com/krishnarammhd" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
@@ -177,7 +237,7 @@ const Ram Krishna = {
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-  
+
 ### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 ### Show some ❤️ by starring ⭐ some of my repositories!
